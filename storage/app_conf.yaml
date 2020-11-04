@@ -1,0 +1,12 @@
+openapi: 3.0.0
+version: 1
+events:
+  hostname: sba.eastus.cloudapp.azure.com
+  port: 9092
+  topic: events
+datastore:
+  user: tamik
+  password: password
+  hostname: sba.eastus.cloudapp.azure.com
+  port: 3306
+  db: events

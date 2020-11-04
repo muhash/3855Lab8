@@ -1,0 +1,156 @@
+openapi: 3.0.0
+info:
+  description: This API receives food orders from customers
+  version: "1.0.0"
+  title: Orders API
+  contact:
+    email: tzamaev@my.bcit.ca
+tags:
+  - name: customer
+    description: Orders done by food ordering customers
+paths:
+  /order:
+    post:
+      tags:
+        - customer
+      summary: reports an order
+      operationId: app.report_order
+      description: Adds a new order to the system
+      responses:
+        '201':
+          description: order created
+        '400':
+          description: 'invalid input, object invalid'
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Order'
+        description: Order item to add
+    get:
+      tags:
+        - customer
+      summary: gets new order
+      operationId: app.get_order
+      description: Gets an order
+      parameters:
+        - name: timestamp
+          in: query
+          description: Limits the number of items on a page
+          schema:
+            type: string
+            format: date-time
+            example: 2016-08-29T09:12:33.001Z
+      responses:
+        '200':
+          description: Successfully returned a list of orders
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Order'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+  /destination:
+    post:
+      tags:
+        - customer
+      summary: reports an location to drive to
+      operationId: app.report_destination
+      description: Adds a new customer destination to the system
+      responses:
+        '201':
+          description: destination created
+        '400':
+          description: 'invalid input, object invalid'
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Destination'
+        description: Address item to add
+    get:
+      tags:
+        - customer
+      summary: gets new destination
+      operationId: app.get_destination
+      description: Gets a destination
+      parameters:
+        - name: timestamp
+          in: query
+          description: Limits the number of items on a page
+          schema:
+            type: string
+            format: date-time
+            example: 2016-08-29T09:12:33.001Z
+      responses:
+        '200':
+          description: Successfully returned a list of destinations
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Destination'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+components:
+    schemas:
+      Order:
+        type: object
+        required:
+          - customer_id
+          - ordr
+          - timestamp
+          - price
+          - address
+        properties:
+          customer_id:
+            type: string
+            format: uuid
+            example: 'd290f1ee-6c54-4b01-90e6-d701748f0851'
+          ordr:
+            type: string
+            example: '1 burger, 1 coke'
+          timestamp:
+            type: string
+            format: date-time
+            example: '2020-10-29T09:09:22.001Z'
+          price:
+            type: number
+            example: 11.30
+          address:
+            type: string
+            example: '1516 Westwood st.'
+      Destination:
+        type: object
+        required:
+          - home_address
+          - dest_address
+          - num_passengers
+        properties:
+          home_address:
+            type: string
+            example: '1615 Alabama dr.'
+          dest_address:
+            type: string
+            example: 'mcdonalds'
+          num_passengers:
+            type: number
+            format: int
+            example: 2

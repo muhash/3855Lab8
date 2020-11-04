@@ -1,0 +1,92 @@
+openapi: 3.0.0
+info:
+  description: This API receives food orders from customers
+  version: "1.0.0"
+  title: Orders API
+  contact:
+    email: tzamaev@my.bcit.ca
+tags:
+  - name: customer
+    description: Orders done by food ordering customers
+paths:
+  /order:
+    post:
+      tags:
+        - customer
+      summary: reports an order
+      operationId: app.addOrder
+      description: Adds a new order to the system
+      responses:
+        '201':
+          description: order created
+        '400':
+          description: 'invalid input, object invalid'
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Order'
+        description: Order item to add
+  /destination:
+    post:
+      tags:
+        - customer
+      summary: reports an location to drive to
+      operationId: app.addDestlocation
+      description: Adds a new customer destination to the system
+      responses:
+        '201':
+          description: destination created
+        '400':
+          description: 'invalid input, object invalid'
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Destination'
+        description: Address item to add
+components:
+    schemas:
+      Order:
+        type: object
+        required:
+          - customer_id
+          - ordr
+          - timestamp
+          - price
+          - address
+        properties:
+          customer_id:
+            type: string
+            format: uuid
+            example: 'd290f1ee-6c54-4b01-90e6-d701748f0851'
+          ordr:
+            type: string
+            example: '1 burger, 1 coke'
+          timestamp:
+            type: string
+            format: date-time
+            example: '2020-10-29T09:09:22.001Z'
+          price:
+            type: number
+            example: 11.30
+          address:
+            type: string
+            example: '1516 Westwood st.'
+      Destination:
+        type: object
+        required:
+          - home_address
+          - dest_address
+          - num_passengers
+        properties:
+          home_address:
+            type: string
+            example: '1615 Alabama dr.'
+          dest_address:
+            type: string
+            example: 'mcdonalds'
+          num_passengers:
+            type: number
+            format: int
+            example: 2

@@ -1,0 +1,10 @@
+openapi: 3.0.0
+version: 1
+events:
+  hostname: sba.eastus.cloudapp.azure.com
+  port: 9092
+  topic: events
+eventstore1:
+  url: http://localhost:8090/order
+eventstore2:
+  url: http://localhost:8090/destination

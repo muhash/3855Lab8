@@ -1,4 +1,0 @@
-Description: This API collects restaurant orders from customers.
-Events: 1. Order from the customer, 2. Address of the cutomer.
-Peak: Peak number of events would be on the weekends during lunch time. Guesstimate 5000 orders. 
-Users: Individuals looking for a take-out

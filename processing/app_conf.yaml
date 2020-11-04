@@ -1,0 +1,8 @@
+openapi: 3.0.0
+version: 1
+datastore:
+  filename: events.json
+scheduler:
+  period_sec: 5
+eventstore:
+  url: http://localhost:8090

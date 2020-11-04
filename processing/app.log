@@ -1,0 +1,998 @@
+2020-10-14 15:29:51,105 - basicLogger - INFO - Start Periodic Processing
+2020-10-14 16:21:55,333 - basicLogger - INFO - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 2001, 'num_orders': 2000}
+2020-10-14 16:27:50,827 - basicLogger - INFO - getting stats request
+2020-10-14 16:28:50,907 - basicLogger - INFO - getting stats request
+2020-10-14 16:29:44,680 - basicLogger - INFO - getting stats request
+2020-10-14 16:30:20,956 - basicLogger - INFO - getting stats request
+2020-10-14 16:30:48,012 - basicLogger - INFO - getting stats request
+2020-10-14 16:31:05,542 - basicLogger - INFO - getting stats request
+2020-10-14 16:31:06,750 - basicLogger - INFO - getting stats request
+2020-10-14 16:32:08,975 - basicLogger - INFO - getting stats request
+2020-10-14 16:32:34,588 - basicLogger - INFO - getting stats request
+2020-10-14 16:32:52,314 - basicLogger - INFO - getting stats request
+2020-10-15 13:06:56,861 - basicLogger - INFO - getting stats request
+2020-10-15 13:08:13,034 - basicLogger - INFO - getting stats request
+2020-10-15 13:08:13,035 - basicLogger - INFO - got following stats: [{'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 2001, 'num_orders': 2000}]
+2020-10-15 13:08:13,035 - basicLogger - INFO - completed the stats request
+2020-10-15 13:10:24,997 - basicLogger - INFO - getting stats request
+2020-10-15 13:10:24,997 - basicLogger - INFO - got following stats: [{'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 2001, 'num_orders': 2000}]
+2020-10-15 13:10:24,998 - basicLogger - INFO - completed the stats request
+2020-10-15 13:11:18,275 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 13:15:42,728 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 13:16:05,859 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 13:16:08,174 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 13:16:53,005 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 13:19:17,880 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 13:19:22,880 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 13:19:37,067 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 13:19:42,067 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 13:20:37,267 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 13:22:13,286 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 13:22:13,731 - basicLogger - INFO - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 2001, 'num_orders': 2000}
+2020-10-15 13:22:13,731 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 13:23:30,841 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 13:23:35,841 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 13:25:52,373 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 13:25:57,373 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 13:26:47,661 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 13:26:52,662 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 13:30:05,183 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 13:32:23,980 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 13:36:59,589 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 13:36:59,612 - basicLogger - ERROR - Did not get any events
+2020-10-15 13:36:59,612 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 13:37:04,590 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 13:37:04,609 - basicLogger - ERROR - Did not get any events
+2020-10-15 13:37:04,610 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 13:37:09,592 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 13:37:09,612 - basicLogger - ERROR - Did not get any events
+2020-10-15 13:37:09,612 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 13:37:59,875 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 13:37:59,897 - basicLogger - ERROR - Did not get any events
+2020-10-15 13:37:59,897 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 13:38:04,876 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 13:38:04,895 - basicLogger - ERROR - Did not get any events
+2020-10-15 13:38:04,895 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 13:38:17,044 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 13:38:17,414 - basicLogger - ERROR - Did not get any events
+2020-10-15 13:38:17,414 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 13:38:22,045 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 13:38:22,399 - basicLogger - ERROR - Did not get any events
+2020-10-15 13:38:22,400 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 13:38:55,025 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 13:38:55,394 - basicLogger - INFO - received events
+2020-10-15 13:38:55,394 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 2001, 'num_orders': 2000}
+2020-10-15 13:38:55,394 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 13:56:11,900 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 13:56:11,922 - basicLogger - ERROR - Did not get any events
+2020-10-15 13:56:11,922 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 13:56:16,900 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 13:56:16,919 - basicLogger - ERROR - Did not get any events
+2020-10-15 13:56:16,919 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 13:56:21,901 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 13:56:21,920 - basicLogger - ERROR - Did not get any events
+2020-10-15 13:56:21,920 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 13:56:26,900 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 13:56:26,921 - basicLogger - ERROR - Did not get any events
+2020-10-15 13:56:26,921 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 13:56:30,444 - basicLogger - INFO - getting stats request
+2020-10-15 13:56:30,445 - basicLogger - INFO - got following stats: [{'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 2001, 'num_orders': 2000}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 2001, 'num_orders': 2000}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 2001, 'num_orders': 2000}]
+2020-10-15 13:56:30,445 - basicLogger - INFO - completed the stats request
+2020-10-15 13:56:31,901 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 13:56:31,922 - basicLogger - ERROR - Did not get any events
+2020-10-15 13:56:31,922 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 13:56:36,900 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 13:56:36,920 - basicLogger - ERROR - Did not get any events
+2020-10-15 13:56:36,921 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 13:56:37,770 - basicLogger - INFO - getting stats request
+2020-10-15 13:56:37,770 - basicLogger - INFO - got following stats: [{'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 2001, 'num_orders': 2000}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 2001, 'num_orders': 2000}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 2001, 'num_orders': 2000}]
+2020-10-15 13:56:37,770 - basicLogger - INFO - completed the stats request
+2020-10-15 13:56:41,678 - basicLogger - INFO - getting stats request
+2020-10-15 13:56:41,678 - basicLogger - INFO - got following stats: [{'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 2001, 'num_orders': 2000}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 2001, 'num_orders': 2000}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 2001, 'num_orders': 2000}]
+2020-10-15 13:56:41,678 - basicLogger - INFO - completed the stats request
+2020-10-15 13:56:41,900 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 13:56:41,921 - basicLogger - ERROR - Did not get any events
+2020-10-15 13:56:41,921 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 13:56:46,900 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 13:56:46,921 - basicLogger - ERROR - Did not get any events
+2020-10-15 13:56:46,921 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 13:56:51,901 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 13:56:51,920 - basicLogger - ERROR - Did not get any events
+2020-10-15 13:56:51,920 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 13:56:56,901 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 13:56:56,920 - basicLogger - ERROR - Did not get any events
+2020-10-15 13:56:56,921 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:05:24,995 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:05:25,033 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:05:25,033 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:05:29,996 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:05:30,016 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:05:30,016 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:05:34,996 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:05:35,018 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:05:35,018 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:05:39,996 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:05:40,017 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:05:40,017 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:05:44,998 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:05:45,017 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:05:45,017 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:05:49,996 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:05:50,017 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:05:50,017 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:05:54,996 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:05:55,018 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:05:55,018 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:05:59,996 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:06:00,016 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:06:00,016 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:06:04,996 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:06:05,016 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:06:05,016 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:06:09,996 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:06:10,015 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:06:10,015 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:06:14,996 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:06:15,016 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:06:15,016 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:06:19,995 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:06:20,016 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:06:20,016 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:06:24,995 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:06:25,016 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:06:25,016 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:06:29,995 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:06:30,017 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:06:30,017 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:06:34,995 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:06:35,016 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:06:35,016 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:06:39,995 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:06:40,014 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:06:40,015 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:06:44,995 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:06:45,017 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:06:45,017 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:06:49,995 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:06:50,016 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:06:50,016 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:08:04,226 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:08:04,265 - basicLogger - INFO - received events
+2020-10-15 14:08:09,226 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:08:09,247 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:08:09,247 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:08:14,229 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:08:14,250 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:08:14,250 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:08:19,227 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:08:19,246 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:08:19,246 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:08:24,227 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:08:24,246 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:08:24,246 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:08:29,227 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:08:29,249 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:08:29,249 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:08:34,226 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:08:34,246 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:08:34,246 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:08:39,227 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:08:39,246 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:08:39,246 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:08:44,229 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:08:44,250 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:08:44,250 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:08:49,227 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:08:49,248 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:08:49,248 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:08:54,227 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:08:54,249 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:08:54,249 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:08:59,226 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:08:59,248 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:08:59,248 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:09:04,226 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:09:04,245 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:09:04,245 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:09:09,226 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:09:09,247 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:09:09,247 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:09:14,226 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:09:14,248 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:09:14,248 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:09:19,226 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:09:19,246 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:09:19,246 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:13:10,774 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:13:10,923 - basicLogger - INFO - received events
+2020-10-15 14:13:15,775 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:13:15,940 - basicLogger - INFO - received events
+2020-10-15 14:13:20,778 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:13:20,926 - basicLogger - INFO - received events
+2020-10-15 14:13:25,775 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:13:25,921 - basicLogger - INFO - received events
+2020-10-15 14:13:30,775 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:13:30,927 - basicLogger - INFO - received events
+2020-10-15 14:13:35,775 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:13:35,923 - basicLogger - INFO - received events
+2020-10-15 14:13:40,775 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:13:40,918 - basicLogger - INFO - received events
+2020-10-15 14:13:45,775 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:13:45,939 - basicLogger - INFO - received events
+2020-10-15 14:13:50,775 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:13:50,937 - basicLogger - INFO - received events
+2020-10-15 14:13:55,775 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:13:55,921 - basicLogger - INFO - received events
+2020-10-15 14:14:00,775 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:14:00,923 - basicLogger - INFO - received events
+2020-10-15 14:14:05,774 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:14:05,923 - basicLogger - INFO - received events
+2020-10-15 14:14:10,774 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:14:10,923 - basicLogger - INFO - received events
+2020-10-15 14:14:15,774 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:14:15,940 - basicLogger - INFO - received events
+2020-10-15 14:14:20,774 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:14:20,918 - basicLogger - INFO - received events
+2020-10-15 14:14:25,774 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:14:25,913 - basicLogger - INFO - received events
+2020-10-15 14:14:33,680 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:14:33,828 - basicLogger - INFO - received events
+2020-10-15 14:14:38,680 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:14:38,824 - basicLogger - INFO - received events
+2020-10-15 14:14:43,680 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:14:43,829 - basicLogger - INFO - received events
+2020-10-15 14:14:48,681 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:14:48,825 - basicLogger - INFO - received events
+2020-10-15 14:14:53,680 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:14:53,841 - basicLogger - INFO - received events
+2020-10-15 14:14:58,681 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:14:58,821 - basicLogger - INFO - received events
+2020-10-15 14:15:03,681 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:15:03,827 - basicLogger - INFO - received events
+2020-10-15 14:15:08,681 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:15:08,828 - basicLogger - INFO - received events
+2020-10-15 14:15:13,683 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:15:13,848 - basicLogger - INFO - received events
+2020-10-15 14:16:19,593 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:16:19,741 - basicLogger - INFO - received events
+2020-10-15 14:16:19,742 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 800, 'num_orders': 772}
+2020-10-15 14:16:19,742 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:16:24,594 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:16:24,755 - basicLogger - INFO - received events
+2020-10-15 14:16:24,756 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 800, 'num_orders': 772}
+2020-10-15 14:16:24,756 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:16:29,597 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:16:29,739 - basicLogger - INFO - received events
+2020-10-15 14:16:29,740 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 800, 'num_orders': 772}
+2020-10-15 14:16:29,740 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:16:34,594 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:16:34,798 - basicLogger - INFO - received events
+2020-10-15 14:16:34,798 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 869, 'num_orders': 839}
+2020-10-15 14:16:34,799 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:16:39,597 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:16:39,854 - basicLogger - INFO - received events
+2020-10-15 14:16:39,855 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1069, 'num_orders': 1039}
+2020-10-15 14:16:39,855 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:16:44,594 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:16:44,806 - basicLogger - INFO - received events
+2020-10-15 14:16:44,807 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}
+2020-10-15 14:16:44,807 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:16:49,594 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:16:49,803 - basicLogger - INFO - received events
+2020-10-15 14:16:49,804 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}
+2020-10-15 14:16:49,804 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:16:54,594 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:16:54,814 - basicLogger - INFO - received events
+2020-10-15 14:16:54,814 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}
+2020-10-15 14:16:54,814 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:16:59,594 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:16:59,821 - basicLogger - INFO - received events
+2020-10-15 14:16:59,822 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}
+2020-10-15 14:16:59,822 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:17:04,597 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:17:04,801 - basicLogger - INFO - received events
+2020-10-15 14:17:04,803 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}
+2020-10-15 14:17:04,803 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:17:09,594 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:17:09,800 - basicLogger - INFO - received events
+2020-10-15 14:17:09,800 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}
+2020-10-15 14:17:09,800 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:17:14,593 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:17:14,800 - basicLogger - INFO - received events
+2020-10-15 14:17:14,801 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}
+2020-10-15 14:17:14,801 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:17:19,593 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:17:19,817 - basicLogger - INFO - received events
+2020-10-15 14:17:19,818 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}
+2020-10-15 14:17:19,818 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:20:11,780 - basicLogger - INFO - getting stats request
+2020-10-15 14:20:11,780 - basicLogger - INFO - got following stats: []
+2020-10-15 14:20:11,781 - basicLogger - INFO - completed the stats request
+2020-10-15 14:20:12,411 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:20:12,621 - basicLogger - INFO - received events
+2020-10-15 14:20:12,622 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}
+2020-10-15 14:20:12,622 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:20:14,557 - basicLogger - INFO - getting stats request
+2020-10-15 14:20:14,557 - basicLogger - INFO - got following stats: [{'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}]
+2020-10-15 14:20:14,557 - basicLogger - INFO - completed the stats request
+2020-10-15 14:20:15,467 - basicLogger - INFO - getting stats request
+2020-10-15 14:20:15,467 - basicLogger - INFO - got following stats: [{'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}]
+2020-10-15 14:20:15,467 - basicLogger - INFO - completed the stats request
+2020-10-15 14:20:16,943 - basicLogger - INFO - getting stats request
+2020-10-15 14:20:16,943 - basicLogger - INFO - got following stats: [{'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}]
+2020-10-15 14:20:16,943 - basicLogger - INFO - completed the stats request
+2020-10-15 14:20:17,411 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:20:17,620 - basicLogger - INFO - received events
+2020-10-15 14:20:17,621 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}
+2020-10-15 14:20:17,621 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:20:17,959 - basicLogger - INFO - getting stats request
+2020-10-15 14:20:17,960 - basicLogger - INFO - got following stats: [{'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}]
+2020-10-15 14:20:17,960 - basicLogger - INFO - completed the stats request
+2020-10-15 14:20:22,411 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:20:22,619 - basicLogger - INFO - received events
+2020-10-15 14:20:22,619 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}
+2020-10-15 14:20:22,619 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:20:27,414 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:20:27,640 - basicLogger - INFO - received events
+2020-10-15 14:20:27,641 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}
+2020-10-15 14:20:27,641 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:20:32,412 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:20:32,623 - basicLogger - INFO - received events
+2020-10-15 14:20:32,624 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}
+2020-10-15 14:20:32,624 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:20:37,412 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:20:37,638 - basicLogger - INFO - received events
+2020-10-15 14:20:37,639 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}
+2020-10-15 14:20:37,639 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:20:42,412 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:20:42,627 - basicLogger - INFO - received events
+2020-10-15 14:20:42,628 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}
+2020-10-15 14:20:42,628 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:20:47,412 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:20:47,632 - basicLogger - INFO - received events
+2020-10-15 14:20:47,633 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}
+2020-10-15 14:20:47,633 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:20:52,411 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:20:52,622 - basicLogger - INFO - received events
+2020-10-15 14:20:52,623 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}
+2020-10-15 14:20:52,623 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:20:57,414 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:20:57,618 - basicLogger - INFO - received events
+2020-10-15 14:20:57,619 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}
+2020-10-15 14:20:57,619 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:21:02,412 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:21:02,614 - basicLogger - INFO - received events
+2020-10-15 14:21:02,615 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}
+2020-10-15 14:21:02,615 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:21:07,411 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:21:07,616 - basicLogger - INFO - received events
+2020-10-15 14:21:07,618 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}
+2020-10-15 14:21:07,618 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:21:12,411 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:21:12,638 - basicLogger - INFO - received events
+2020-10-15 14:21:12,639 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}
+2020-10-15 14:21:12,639 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:21:17,411 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:21:17,617 - basicLogger - INFO - received events
+2020-10-15 14:21:17,619 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}
+2020-10-15 14:21:17,619 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:21:25,228 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:21:25,443 - basicLogger - INFO - received events
+2020-10-15 14:21:25,445 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}
+2020-10-15 14:21:25,445 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:21:30,229 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:21:30,434 - basicLogger - INFO - received events
+2020-10-15 14:21:30,435 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}
+2020-10-15 14:21:30,435 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:21:40,762 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:21:40,786 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:21:40,787 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:21:40,822 - basicLogger - INFO - getting stats request
+2020-10-15 14:21:40,823 - basicLogger - INFO - got following stats: [{'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}]
+2020-10-15 14:21:40,823 - basicLogger - INFO - completed the stats request
+2020-10-15 14:21:45,763 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:21:45,784 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:21:45,785 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:21:50,762 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:21:50,783 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:21:50,783 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:21:55,762 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:21:55,783 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:21:55,783 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:21:59,685 - basicLogger - INFO - getting stats request
+2020-10-15 14:21:59,685 - basicLogger - INFO - got following stats: [{'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}]
+2020-10-15 14:21:59,686 - basicLogger - INFO - completed the stats request
+2020-10-15 14:22:03,463 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:22:03,488 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:22:03,488 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:22:08,464 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:22:08,485 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:22:08,485 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:22:10,220 - basicLogger - INFO - getting stats request
+2020-10-15 14:22:10,220 - basicLogger - INFO - got following stats: [{'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}]
+2020-10-15 14:22:10,220 - basicLogger - INFO - completed the stats request
+2020-10-15 14:22:10,948 - basicLogger - INFO - getting stats request
+2020-10-15 14:22:10,948 - basicLogger - INFO - got following stats: [{'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}]
+2020-10-15 14:22:10,948 - basicLogger - INFO - completed the stats request
+2020-10-15 14:22:11,442 - basicLogger - INFO - getting stats request
+2020-10-15 14:22:11,442 - basicLogger - INFO - got following stats: [{'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}]
+2020-10-15 14:22:11,442 - basicLogger - INFO - completed the stats request
+2020-10-15 14:22:11,928 - basicLogger - INFO - getting stats request
+2020-10-15 14:22:11,929 - basicLogger - INFO - got following stats: [{'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}]
+2020-10-15 14:22:11,929 - basicLogger - INFO - completed the stats request
+2020-10-15 14:22:13,095 - basicLogger - INFO - getting stats request
+2020-10-15 14:22:13,096 - basicLogger - INFO - got following stats: [{'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}, {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1200, 'num_orders': 1172}]
+2020-10-15 14:22:13,096 - basicLogger - INFO - completed the stats request
+2020-10-15 14:22:13,464 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:22:13,486 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:22:13,486 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:22:18,464 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:22:18,485 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:22:18,485 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:22:23,464 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:22:23,483 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:22:23,483 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:22:28,464 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:22:28,517 - basicLogger - INFO - received events
+2020-10-15 14:22:28,518 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 112, 'num_orders': 110}
+2020-10-15 14:22:28,518 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:22:33,465 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:22:33,573 - basicLogger - INFO - received events
+2020-10-15 14:22:33,574 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 264, 'num_orders': 262}
+2020-10-15 14:22:33,574 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:22:38,464 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:22:38,580 - basicLogger - INFO - received events
+2020-10-15 14:22:38,581 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 319, 'num_orders': 319}
+2020-10-15 14:22:38,581 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:22:43,464 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:22:43,543 - basicLogger - INFO - received events
+2020-10-15 14:22:43,544 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 241, 'num_orders': 240}
+2020-10-15 14:22:43,544 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:22:48,466 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:22:48,507 - basicLogger - INFO - received events
+2020-10-15 14:22:48,508 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 98.0, 'num_destinations': 69, 'num_orders': 69}
+2020-10-15 14:22:48,508 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:22:53,464 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:22:53,488 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:22:53,488 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:22:58,464 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:22:58,484 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:22:58,484 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:23:03,464 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:23:03,491 - basicLogger - INFO - received events
+2020-10-15 14:23:03,492 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 36.0, 'num_destinations': 6, 'num_orders': 5}
+2020-10-15 14:23:03,492 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:23:08,464 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:23:08,551 - basicLogger - INFO - received events
+2020-10-15 14:23:08,552 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 214, 'num_orders': 210}
+2020-10-15 14:23:08,552 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:23:13,464 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:23:13,577 - basicLogger - INFO - received events
+2020-10-15 14:23:13,579 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 98.0, 'num_destinations': 317, 'num_orders': 315}
+2020-10-15 14:23:13,579 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:23:18,463 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:23:18,584 - basicLogger - INFO - received events
+2020-10-15 14:23:18,585 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 291, 'num_orders': 291}
+2020-10-15 14:23:18,585 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:23:23,464 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:23:23,526 - basicLogger - INFO - received events
+2020-10-15 14:23:23,527 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 98.0, 'num_destinations': 178, 'num_orders': 179}
+2020-10-15 14:23:23,527 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:23:28,464 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:23:28,489 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:23:28,489 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:23:33,464 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:23:33,488 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:23:33,488 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:23:38,464 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:23:38,488 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:23:38,489 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:23:43,464 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:23:43,485 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:23:43,485 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:23:48,464 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:23:48,488 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:23:48,488 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:23:53,464 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:23:53,488 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:23:53,488 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:23:58,464 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:23:58,488 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:23:58,488 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:24:03,464 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:24:03,487 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:24:03,487 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:24:08,464 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:24:08,487 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:24:08,487 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:24:13,464 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:24:13,488 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:24:13,488 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:24:18,464 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:24:18,490 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:24:18,490 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:24:23,464 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:24:23,486 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:24:23,486 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:24:28,464 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:24:28,488 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:24:28,488 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:36:16,548 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:36:16,577 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:36:16,577 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:36:21,548 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:36:21,587 - basicLogger - INFO - received events
+2020-10-15 14:36:21,587 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 98.0, 'num_destinations': 39, 'num_orders': 39}
+2020-10-15 14:36:21,588 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:36:26,549 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:36:26,592 - basicLogger - INFO - received events
+2020-10-15 14:36:26,592 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 98.0, 'num_destinations': 60, 'num_orders': 59}
+2020-10-15 14:36:26,592 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:36:31,548 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:36:31,599 - basicLogger - INFO - received events
+2020-10-15 14:36:31,600 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 64, 'num_orders': 62}
+2020-10-15 14:36:31,600 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:36:36,548 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:36:36,592 - basicLogger - INFO - received events
+2020-10-15 14:36:36,592 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 56, 'num_orders': 56}
+2020-10-15 14:36:36,592 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:36:41,549 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:36:41,584 - basicLogger - INFO - received events
+2020-10-15 14:36:41,585 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 26, 'num_orders': 27}
+2020-10-15 14:36:41,585 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:36:46,549 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:36:46,573 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:36:46,573 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:36:51,549 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:36:51,572 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:36:51,572 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:36:56,548 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:36:56,574 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:36:56,574 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:37:01,549 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:37:01,574 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:37:01,574 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:37:06,548 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:37:06,575 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:37:06,575 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:37:11,548 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:37:11,571 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:37:11,571 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:37:16,548 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:37:16,576 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:37:16,576 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:37:21,548 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:37:21,574 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:37:21,574 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:37:26,548 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:37:26,577 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:37:26,577 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:37:31,548 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:37:31,576 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:37:31,577 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:37:36,548 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:37:36,572 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:37:36,572 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:37:41,548 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:37:41,576 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:37:41,576 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:37:46,548 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:37:46,575 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:37:46,575 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:37:51,548 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:37:51,573 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:37:51,574 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:37:56,548 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:37:56,577 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:37:56,577 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:38:01,548 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:38:01,572 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:38:01,573 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:38:06,548 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:38:06,576 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:38:06,576 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:38:11,548 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:38:11,578 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:38:11,578 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:38:16,548 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:38:16,574 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:38:16,574 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:38:21,548 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:38:21,573 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:38:21,574 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:38:26,548 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:38:26,574 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:38:26,574 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:38:31,548 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:38:31,574 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:38:31,574 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:38:36,548 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:38:36,574 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:38:36,574 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:45:19,572 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:45:19,600 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:45:19,600 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:45:24,573 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:45:24,601 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:45:24,601 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:45:29,573 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:45:29,608 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:45:29,608 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:45:34,573 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:45:34,605 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:45:34,605 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:45:39,573 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:45:39,601 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:45:39,602 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:45:44,573 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:45:44,602 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:45:44,602 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:45:49,573 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:45:49,603 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:45:49,604 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:45:54,573 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:45:54,601 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:45:54,601 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:45:59,573 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:45:59,599 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:45:59,600 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:46:04,573 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:46:04,601 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:46:04,601 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:46:09,573 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:46:09,601 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:46:09,602 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:46:14,572 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:46:14,598 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:46:14,598 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:46:19,572 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:46:19,601 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:46:19,601 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:46:24,572 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:46:24,600 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:46:24,600 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:46:30,841 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:46:35,841 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:46:40,841 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:47:41,568 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:47:41,598 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:47:41,598 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:47:46,568 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:47:46,596 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:47:46,596 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:47:51,568 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:47:51,600 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:47:51,600 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:47:56,568 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:47:56,600 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:47:56,600 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:48:01,568 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:48:01,597 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:48:01,597 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:48:06,568 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:48:06,601 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:48:06,601 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:48:13,781 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:48:13,815 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:48:13,815 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:48:31,090 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:48:31,121 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:48:31,121 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:49:05,240 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:49:05,272 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:49:05,272 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:49:10,241 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:49:10,301 - basicLogger - INFO - received events
+2020-10-15 14:49:10,302 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 136, 'num_orders': 134, 'timestamp': '2020-10-15 14:49:10.301935'}
+2020-10-15 14:49:10,302 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:49:15,241 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:49:15,364 - basicLogger - INFO - received events
+2020-10-15 14:49:15,365 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 415, 'num_orders': 411, 'timestamp': '2020-10-15 14:49:15.364625'}
+2020-10-15 14:49:15,365 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:49:20,241 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:49:20,465 - basicLogger - INFO - received events
+2020-10-15 14:49:20,466 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 707, 'num_orders': 704, 'timestamp': '2020-10-15 14:49:20.465546'}
+2020-10-15 14:49:20,466 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:49:25,241 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:49:25,436 - basicLogger - INFO - received events
+2020-10-15 14:49:25,437 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 907, 'num_orders': 906, 'timestamp': '2020-10-15 14:49:25.436712'}
+2020-10-15 14:49:25,437 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:49:30,241 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:49:30,421 - basicLogger - INFO - received events
+2020-10-15 14:49:30,422 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 907, 'num_orders': 906, 'timestamp': '2020-10-15 14:49:30.421290'}
+2020-10-15 14:49:30,422 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:50:36,421 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:50:36,454 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:50:36,454 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:50:46,313 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:50:46,346 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:50:46,346 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:51:36,738 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:51:36,776 - basicLogger - ERROR - Did not get any events
+2020-10-15 14:51:36,776 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:51:41,739 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:51:41,851 - basicLogger - INFO - received events
+2020-10-15 14:51:41,852 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 315, 'num_orders': 313, 'timestamp': '2020-10-15 14:51:41.851900'}
+2020-10-15 14:51:41,852 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:51:46,739 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:51:46,850 - basicLogger - INFO - received events
+2020-10-15 14:51:46,850 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 305, 'num_orders': 304, 'timestamp': '2020-10-15 14:51:46.850145'}
+2020-10-15 14:51:46,850 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:51:51,739 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:51:51,815 - basicLogger - INFO - received events
+2020-10-15 14:51:51,816 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 205, 'num_orders': 204, 'timestamp': '2020-10-15 14:51:51.815616'}
+2020-10-15 14:51:51,816 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:51:56,739 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:51:56,773 - basicLogger - INFO - received events
+2020-10-15 14:51:56,774 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 80.0, 'num_destinations': 3, 'num_orders': 3, 'timestamp': '2020-10-15 14:51:56.773754'}
+2020-10-15 14:51:56,774 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:52:01,739 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:52:01,791 - basicLogger - INFO - received events
+2020-10-15 14:52:01,791 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 72, 'num_orders': 71, 'timestamp': '2020-10-15 14:52:01.791310'}
+2020-10-15 14:52:01,792 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:56:36,908 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:56:37,264 - basicLogger - INFO - received events
+2020-10-15 14:58:17,675 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:58:22,676 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:59:47,354 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:59:47,393 - basicLogger - INFO - received events
+2020-10-15 14:59:47,394 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 4, 'max_order_price': 52.0, 'num_destinations': 2, 'num_orders': 1, 'timestamp': '2020-10-15 14:59:47.393513'}
+2020-10-15 14:59:47,394 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:59:52,355 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:59:52,479 - basicLogger - INFO - received events
+2020-10-15 14:59:52,480 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 343, 'num_orders': 338, 'timestamp': '2020-10-15 14:59:52.479464'}
+2020-10-15 14:59:52,480 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 14:59:57,355 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 14:59:57,445 - basicLogger - INFO - received events
+2020-10-15 14:59:57,446 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 641, 'num_orders': 637, 'timestamp': '2020-10-15 14:59:57.445636'}
+2020-10-15 14:59:57,446 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:00:02,355 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:00:02,424 - basicLogger - INFO - received events
+2020-10-15 15:00:02,424 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 788, 'num_orders': 784, 'timestamp': '2020-10-15 15:00:02.424007'}
+2020-10-15 15:00:02,424 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:00:07,355 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:00:07,395 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:00:07,395 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:00:12,355 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:00:12,392 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:00:12,392 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:00:17,355 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:00:17,394 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:00:17,394 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:00:22,355 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:00:22,391 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:00:22,391 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:05:50,931 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:05:51,085 - basicLogger - INFO - received events
+2020-10-15 15:05:51,086 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 441, 'num_orders': 438, 'timestamp': '2020-10-15 15:05:51.085227'}
+2020-10-15 15:05:51,086 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:05:55,932 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:05:56,074 - basicLogger - INFO - received events
+2020-10-15 15:05:56,074 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 763, 'num_orders': 759, 'timestamp': '2020-10-15 15:05:56.074400'}
+2020-10-15 15:05:56,075 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:06:00,932 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:06:01,033 - basicLogger - INFO - received events
+2020-10-15 15:06:01,034 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1048, 'num_orders': 1045, 'timestamp': '2020-10-15 15:06:01.033910'}
+2020-10-15 15:06:01,034 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:06:05,932 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:06:06,005 - basicLogger - INFO - received events
+2020-10-15 15:06:06,005 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1191, 'num_orders': 1189, 'timestamp': '2020-10-15 15:06:06.005386'}
+2020-10-15 15:06:06,006 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:06:10,932 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:06:10,971 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:06:10,971 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:06:15,932 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:06:15,965 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:06:15,966 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:06:20,932 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:06:20,976 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:06:20,976 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:13:03,832 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:13:03,876 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:13:03,876 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:13:08,833 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:13:08,964 - basicLogger - INFO - received events
+2020-10-15 15:13:08,965 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 309, 'num_orders': 308, 'timestamp': '2020-10-15 15:13:08.964851'}
+2020-10-15 15:13:08,965 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:13:13,833 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:13:13,951 - basicLogger - INFO - received events
+2020-10-15 15:13:13,952 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 611, 'num_orders': 606, 'timestamp': '2020-10-15 15:13:13.951890'}
+2020-10-15 15:13:13,952 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:13:18,833 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:13:18,975 - basicLogger - INFO - received events
+2020-10-15 15:13:18,975 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 911, 'num_orders': 902, 'timestamp': '2020-10-15 15:13:18.975248'}
+2020-10-15 15:13:18,976 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:13:23,833 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:13:23,929 - basicLogger - INFO - received events
+2020-10-15 15:13:23,929 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1141, 'num_orders': 1132, 'timestamp': '2020-10-15 15:13:23.929313'}
+2020-10-15 15:13:23,930 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:13:28,833 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:13:28,893 - basicLogger - INFO - received events
+2020-10-15 15:13:28,894 - basicLogger - DEBUG - Updated stats: {'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1213, 'num_orders': 1204, 'timestamp': '2020-10-15 15:13:28.893949'}
+2020-10-15 15:13:28,894 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:13:33,834 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:13:33,878 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:13:33,878 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:13:38,833 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:13:38,869 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:13:38,869 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:13:43,833 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:13:43,868 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:13:43,868 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:13:48,833 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:13:48,871 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:13:48,871 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:14:07,487 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:14:07,531 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:14:07,531 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:14:12,488 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:14:12,529 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:14:12,529 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:14:17,488 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:14:17,527 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:14:17,527 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:14:22,488 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:14:22,523 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:14:22,523 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:14:27,488 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:14:27,527 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:14:27,527 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:14:29,607 - basicLogger - INFO - getting stats request
+2020-10-15 15:14:29,607 - basicLogger - INFO - got following stats: [{'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1213, 'num_orders': 1204, 'timestamp': '2020-10-15 15:13:28.893949'}]
+2020-10-15 15:14:29,607 - basicLogger - INFO - completed the stats request
+2020-10-15 15:14:32,488 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:14:32,529 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:14:32,529 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:14:37,489 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:14:37,530 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:14:37,530 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:14:42,488 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:14:42,529 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:14:42,529 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:14:47,488 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:14:47,531 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:14:47,531 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:14:52,488 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:14:52,532 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:14:52,532 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:14:57,488 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:14:57,529 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:14:57,529 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:15:02,488 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:15:02,526 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:15:02,526 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:15:07,487 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:15:07,522 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:15:07,522 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:15:12,487 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:15:12,523 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:15:12,523 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:15:17,488 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:15:17,529 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:15:17,529 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:15:22,487 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:15:22,530 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:15:22,531 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:15:27,487 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:15:27,531 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:15:27,531 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:15:32,487 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:15:32,526 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:15:32,526 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:15:37,487 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:15:37,528 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:15:37,528 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:15:42,487 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:15:42,526 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:15:42,526 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:15:47,487 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:15:47,524 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:15:47,524 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:15:57,147 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:15:57,191 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:15:57,191 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:16:00,007 - basicLogger - INFO - getting stats request
+2020-10-15 15:16:00,007 - basicLogger - INFO - got following stats: [{'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1213, 'num_orders': 1204, 'timestamp': '2020-10-15 15:13:28.893949'}]
+2020-10-15 15:16:00,007 - basicLogger - INFO - completed the stats request
+2020-10-15 15:16:02,147 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:16:02,189 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:16:02,189 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:16:07,147 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:16:07,185 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:16:07,186 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:16:12,147 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:16:12,192 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:16:12,192 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:16:17,147 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:16:17,185 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:16:17,185 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:16:22,147 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:16:22,188 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:16:22,189 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:16:27,147 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:16:27,190 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:16:27,190 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:16:32,148 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:16:32,190 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:16:32,190 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:16:37,147 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:16:37,183 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:16:37,183 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:16:42,147 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:16:42,188 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:16:42,188 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:16:47,147 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:16:47,187 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:16:47,187 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:16:52,147 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:16:52,185 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:16:52,186 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:16:58,444 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:16:58,486 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:16:58,486 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:16:58,690 - basicLogger - INFO - getting stats request
+2020-10-15 15:16:58,690 - basicLogger - INFO - got following stats: [{'max_destination_passenger_num': 5, 'max_order_price': 99.0, 'num_destinations': 1213, 'num_orders': 1204, 'timestamp': '2020-10-15 15:13:28.893949'}]
+2020-10-15 15:16:58,690 - basicLogger - INFO - completed the stats request
+2020-10-15 15:17:03,444 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:17:03,484 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:17:03,485 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:17:08,444 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:17:08,484 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:17:08,485 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:17:13,444 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:17:13,489 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:17:13,489 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:17:18,444 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:17:18,486 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:17:18,486 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:17:23,444 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:17:23,481 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:17:23,481 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:17:28,444 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:17:28,479 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:17:28,479 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:17:33,444 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:17:33,484 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:17:33,484 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:17:38,444 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:17:38,485 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:17:38,485 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:17:43,444 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:17:43,482 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:17:43,483 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:17:48,444 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:17:48,486 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:17:48,486 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:17:53,443 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:17:53,483 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:17:53,483 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:17:58,443 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:17:58,484 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:17:58,484 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:18:03,443 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:18:03,484 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:18:03,484 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:18:08,443 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:18:08,481 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:18:08,481 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:18:13,443 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:18:13,484 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:18:13,484 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:18:18,443 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:18:18,484 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:18:18,484 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:18:23,443 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:18:23,481 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:18:23,481 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:18:28,443 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:18:28,484 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:18:28,484 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:18:33,444 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:18:33,484 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:18:33,484 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:18:38,443 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:18:38,485 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:18:38,485 - basicLogger - INFO - Ended Periodic Processing
+2020-10-15 15:18:43,443 - basicLogger - INFO - Start Periodic Processing
+2020-10-15 15:18:43,483 - basicLogger - ERROR - Did not get any events
+2020-10-15 15:18:43,483 - basicLogger - INFO - Ended Periodic Processing

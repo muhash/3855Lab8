@@ -1,0 +1,58 @@
+openapi: 3.0.0
+info:
+  description: This API receives food orders from customers
+  version: "1.0.0"
+  title: Orders API
+  contact:
+    email: tzamaev@my.bcit.ca
+paths:
+  /stats:
+    get:
+      summary: gets event stats
+      operationId: app.get_stats
+      description: get orders and destination stats
+      responses:
+        '200':
+          description: Successfully returned a list of orders
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/ReadingStats'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+components:
+    schemas:
+      ReadingStats:
+        required:
+        - num_orders
+        - num_destinations
+        - max_order_price
+        - max_destination_passenger_num
+        - timestamp
+        properties:
+          num_orders:
+            type: integer
+            example: 50000
+          num_destinations:
+            type: integer
+            example: 50000
+          max_order_price:
+            type: number
+            example: 500
+          max_destination_passenger_num:
+            type: integer
+            example: 10
+          timestamp:
+            type: string
+            example: '2020-10-15 15:15:17.111111'
+
+
